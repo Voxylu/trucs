@@ -3,7 +3,7 @@
 > A little library which export utility functions. Some little things (trucs in french).
 > Trucs is written in typescript
 
-[Documentation](documentation) - [Examples](../blob/master/examples/index.ts)
+[Documentation](documentation) - [Examples](../master/examples/index.ts)
 
 ## Installation
 
@@ -23,4 +23,4 @@ For now:
 
 See the [documentation](documentation).
 
-[documentation](https://voxylu.xyz/trucs/)
+[documentation]: https://voxylu.xyz/trucs/
