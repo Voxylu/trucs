@@ -1,0 +1,33 @@
+{
+  "name": "trucs",
+  "version": "1.0.0",
+  "description": "A little library which export utility functions. Some little things (trucs in french).",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voxylu/trucs.git"
+  },
+  "keywords": [
+    "utility",
+    "choses",
+    "quick",
+    "easy"
+  ],
+  "author": "Voxylu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Voxylu/trucs/issues"
+  },
+  "homepage": "https://github.com/Voxylu/trucs#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.11",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}

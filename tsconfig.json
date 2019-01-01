@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "declaration": true,
+    "outDir": "dist",
+    "module": "commonjs"
+  },
+  "include": ["src"],
+  "exclude": ["**/*.test.ts"]
+}
