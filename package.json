@@ -1,6 +1,6 @@
 {
   "name": "trucs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little library which export utility functions. Some little things (trucs in french).",
   "main": "dist/index.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "jest": "^23.6.0",
     "ts-jest": "^23.10.5",
     "ts-node": "^7.0.1",
+    "typedoc": "^0.13.0",
     "typescript": "^3.2.2"
   }
 }

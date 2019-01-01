@@ -1,5 +1,5 @@
 /**
- * isInt(...) test if anumber is an integer.
+ * isInt(...) test if a number is an integer.
  * @param {number} n The number to test.
  * ```js
  * isInt(0) // true
