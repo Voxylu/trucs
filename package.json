@@ -22,13 +22,14 @@
   "bugs": {
     "url": "https://github.com/Voxylu/trucs/issues"
   },
-  "homepage": "https://github.com/Voxylu/trucs#readme",
+  "homepage": "https://voxylu.xyz/trucs/",
   "devDependencies": {
     "@types/jest": "^23.3.11",
     "jest": "^23.6.0",
     "ts-jest": "^23.10.5",
     "ts-node": "^7.0.1",
     "typedoc": "^0.13.0",
+    "typedoc-plugin-external-module-name": "^1.1.3",
     "typescript": "^3.2.2"
   }
 }

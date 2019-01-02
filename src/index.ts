@@ -1,4 +1,11 @@
 /**
+ * A little library which export utility functions. Some little things (trucs in french).
+ * @author Voxylu
+ * @module trucs
+ * @license MIT
+ */
+
+/**
  * isInt(...) test if a number is an integer.
  * @param {number} n The number to test.
  * ```js
